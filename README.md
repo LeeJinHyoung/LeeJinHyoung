@@ -1,5 +1,4 @@
 ### LeeJinHyoung 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=333333&height=300&section=header&text=Chain's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=F5F5DC)
 
 <br>
 
@@ -34,11 +33,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bchain91&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJinHyoung&show_icons=true&theme=vue)
 
 </td><td valign="top" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bchain91&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJinHyoung&layout=compact&theme=vue)
 
 </td></tr></table>  
 
