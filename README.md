@@ -13,6 +13,5 @@
 </div>
 <div align="center">
     
-    Embedded IoT Student 
-    Preparing for employment.
+    Embedded Engineer
 </div>
